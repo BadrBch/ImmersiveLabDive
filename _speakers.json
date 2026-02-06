@@ -1,0 +1,34 @@
+[
+    {
+        "nom": "Speaker 1",
+        "titre": "Speaker title 1",
+        "etablissement": "Speaker establishment",
+        "photo": "images/Logo_DVRC-1.png",
+        "lien": "https://chewbii.com",
+        "bio": "Short bio in HTML mode. Only given on the schedule page. Photo must be put in folder \"images/\" and linked here"
+    },
+    {
+        "nom": "Speaker 2",
+        "titre": "Speaker title 2",
+        "etablissement": "Speaker establishment",
+        "photo": "images/Logo_DVRC-1.png",
+        "lien": "https://chewbii.com",
+        "bio": "Short bio in HTML mode. Only given on the schedule page"
+    },
+    {
+        "nom": "Speaker 3",
+        "titre": "Speaker title 3",
+        "etablissement": "Speaker establishment",
+        "photo": "images/Logo_DVRC-1.png",
+        "lien": "https://chewbii.com",
+        "bio": "Short bio in HTML mode. Only given on the schedule page"
+    },
+    {
+        "nom": "Speaker 4",
+        "titre": "Speaker title 4",
+        "etablissement": "Speaker establishment",
+        "photo": "images/Logo_DVRC-1.png",
+        "lien": "https://chewbii.com",
+        "bio": "Short bio in HTML mode. Only given on the schedule page"
+    }
+]

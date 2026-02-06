@@ -1,0 +1,80 @@
+{
+    "event_type": "Immersive Lab Initiative",
+    "institution": "De Vinci Higher Education",
+    "logo": "logo-default.png",
+    "logo-inverse": "logo-inverse.png",
+    "index": "Immersive LAB",
+    "title": "What is Immersive Learning?",
+    "when": "2025-06-17",
+    "when_long": "June 17, 2025",
+    "contact": "For collaborations and information: <a href='mailto:Ahmed.azough@devinci.fr'>Ahmed.azough@devinci.fr</a>",
+    "facebook": "",
+    "twitter": "https://x.com/poledevinci",
+    "linkedIn": "",
+    "youtube": "https://www.youtube.com/@DeVinciImmersiveLab",
+    "menu_events": "EVENTS",
+    "menu_speakers": 0,
+    "menu_committee": 0,
+    "menu_schedule": 0,
+    "menu_home": "HOME",
+    "menu_about": "ABOUT",
+    "menu_education": "EDUCATION",
+    "menu_research": "RESEARCH",
+    "menu_projects": "PROJECTS",
+    "menu_contact": "CONTACTS",
+    "hero_title": "What is Immersive Learning?",
+    "home_registration_title": "Immersive LAB WORKSHOP",
+    "home_registration_text": "Join us for Immersive LAB (De Vinci Immersive Technologies & Visual Engineering), our flagship annual research workshop bringing together researchers, students, and industry experts to explore the frontiers of immersive technologies.",
+    "home_registration_btn": "ACCESS REGISTRATION DETAILS",
+    "home_association_title": "Virtual Vinci Student Association",
+    "home_association_tagline": "Empowering students to explore, create, and innovate with immersive technologies",
+    "home_association_summary": "DIVE25 forms part of a broader strategy to promote collaborative research at the intersection of management, engineering, and digital innovation. Designed as a platform for transversal dialogue, the workshop fostered knowledge sharing between institutions, disciplines, and research communities.",
+    "home_research_title": "Vision & Immersion Research Group",
+    "home_research_intro": "Our interdisciplinary research group bridges engineering, design, and social sciences to advance the frontiers of computer vision and immersive technologies.",
+    "home_research_contact": "",
+    "home_assoc_pillar_1_title": "INTERDISCIPLINARY DIALOGUE",
+    "home_assoc_pillar_1_text": "Strengthening interdisciplinarity between ESILV and EMLV means creating a collaborative space for researchers involving management and engineering sciences.",
+    "home_assoc_pillar_2_title": "COLLABORATIVE ECOSYSTEM",
+    "home_assoc_pillar_2_text": "By bridging technical and managerial expertise, DIVE25 aims to shape a new research ecosystem that can respond to the complex challenges posed by immersive technologies.",
+    "home_assoc_pillar_3_title": "SCIENTIFIC EXCELLENCE",
+    "home_assoc_pillar_3_text": "Scientific excellence is reflected in a growing number of publications in top-tier academic journals, expanding the reach of research through practice-oriented initiatives.",
+    "home_research_pillar_1_title": "IMMERSIVE TECHNOLOGIES",
+    "home_research_pillar_1_text": "Human-Computer Interaction design and ergonomics in XR | Virtual, Augmented, and Mixed Reality experiences | AI-powered metaverse applications | Privacy, security, and ethical considerations | Immersive solutions for healthcare, education, and training",
+    "home_research_pillar_2_title": "COMPUTER VISION",
+    "home_research_pillar_2_text": "Real-time object detection and tracking | Gesture and motion recognition | Deep learning for visual understanding | Thermal imaging and behavior analysis | Privacy-preserving security systems",
+    "home_research_pillar_3_title": "DIGITAL TWINS",
+    "home_research_pillar_3_text": "Lifecycle management and interoperability standards | High-fidelity modeling and real-time simulation | IoT data integration and telemetry systems | Interactive analytics dashboards | Smart city and Industry 4.0 applications",
+    "footer_title": "De Vinci Immersive Lab",
+    "footer_copyright": "Copyright © 2025 De Vinci Higher Education - DVRC Research Center",
+    "images": [
+        [
+            "images/_fond_rue_haute.png",
+            "https://devinci.fr"
+        ],
+        [
+            "images/_fond_pole.png",
+            "https://devinci.fr"
+        ],
+        [
+            "images/_fond_pole_2.png",
+            "https://devinci.fr"
+        ],
+        [
+            "images/_fond_rue_haute_2.png",
+            "https://devinci.fr"
+        ],
+        [
+            "images/_fond_rue_haute_3.png",
+            "https://devinci.fr"
+        ]
+    ],
+    "background_image": "light",
+    "_logo": "logo-default@2x.png",
+    "_logo-inverse": "logo-inverse@2x.png",
+    "_institution": "De Vinci Higher Education",
+    "_facebook": "",
+    "_twitter": "https://x.com/poledevinci",
+    "_linkedIn": "",
+    "_youtube": "https://www.youtube.com/@DeVinciImmersiveLab",
+    "menu_sponsors": 0
+}

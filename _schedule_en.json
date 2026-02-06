@@ -1,0 +1,62 @@
+[
+	[
+		{
+			"time" : "Monday 1 January, 9h00 - 12h00",
+  			"type" : "keynote", 
+        	"speaker":"Speaker 1",
+			"image":"images/logo-default.png",
+			"speakerTitle":"TITLE",
+			"etablissement":"ESTABLISHMENT",
+			"title":"KEYNOTE SPEACH TITLE",
+			"link":"LINK TO THE PDF (\"workshops\" folder) OR LEAVE IT EMPTY",
+        	"description" : "Description of the speach"
+      },{
+			"time" : "Monday 1 January, 12h00 - 14h00",
+  			"type" : "lunch"
+      },{
+			"time" : "Monday 1 January, 14h00 - 15h30",
+  			"type" : "session", 
+			"title":"SESSION TITLE 1",
+        	"description" : "Description of the session"
+      },{
+			"time" : "Monday 1 January, 15h30 - 15h45",
+  			"type" : "break"
+      },{
+			"time" : "Monday 1 January, 15h45 - 17h00",
+  			"type" : "session", 
+			"title":"SESSION TITLE 2",
+        	"description" : "Description of the session"
+      }
+
+	],
+	[
+		{
+			"time" : "Monday 2 January, 9h00 - 12h00",
+  			"type" : "keynote", 
+        	"speaker":"Speaker 2",
+			"image":"images/logo-default.png",
+			"speakerTitle":"TITLE",
+			"etablissement":"ESTABLISHMENT",
+			"title":"KEYNOTE SPEACH TITLE",
+			"link":"",
+        	"description" : "Description of the speach"
+      },{
+			"time" : "Monday 2 January, 12h00 - 14h00",
+  			"type" : "lunch"
+      },{
+			"time" : "Monday 2 January, 14h00 - 15h30",
+  			"type" : "session", 
+			"title":"SESSION TITLE 3",
+        	"description" : "Description of the session"
+      },{
+			"time" : "Monday 2 January, 15h30 - 15h45",
+  			"type" : "break"
+      },{
+			"time" : "Monday 2 January, 15h45 - 17h00",
+  			"type" : "session", 
+			"title":"SESSION TITLE 4",
+        	"description" : "Description of the session"
+      }
+
+	]
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://schools.dvrc.fr/MDD24/index.php</loc>
+  <lastmod>2024-02-08T22:39:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://schools.dvrc.fr/MDD24/about.php</loc>
+  <lastmod>2024-02-08T22:39:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schools.dvrc.fr/MDD24/speakers.php</loc>
+  <lastmod>2024-02-08T22:39:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schools.dvrc.fr/MDD24/committees.php</loc>
+  <lastmod>2024-02-08T22:39:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schools.dvrc.fr/MDD24/schedule.php</loc>
+  <lastmod>2024-02-08T22:39:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schools.dvrc.fr/MDD24/venue.php</loc>
+  <lastmod>2024-02-08T22:39:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schools.dvrc.fr/MDD24/contact.php</loc>
+  <lastmod>2024-02-08T22:39:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schools.dvrc.fr/MDD24/sponsors.php</loc>
+  <lastmod>2024-02-08T23:59:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,13 @@
+{
+	"title":"Workshop Example",
+	"subTitle":"SUBTITLE",
+	"items": [
+		{
+			"title": "item 1 title",
+			"link": "item link"
+		},{
+			"title":"item 2 title",
+			"link": "item link"
+		}
+	]
+}

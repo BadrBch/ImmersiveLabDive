@@ -1,0 +1,33 @@
+[
+	[
+		{
+			"time" : "Jeudi 5 juin, 9h00 - 12h00",
+  			"type" : "keynote", 
+        	"speaker":"Orateur 1",
+			"image":"images/logo-default.png",
+			"speakerTitle":"TITRE",
+			"etablissement":"ETABLISSEMENT",
+			"title":"TITRE DU DISCOURS",
+			"link":"LINK TO THE PDF (\"workshops\" folder) SINON LAISSER VIDE",
+        	"description" : "Description du discours"
+      },{
+			"time" : "Jeudi 5 juin, 12h00 - 14h00",
+  			"type" : "lunch"
+      },{
+			"time" : "Jeudi 5 juin, 14h00 - 15h30",
+  			"type" : "session", 
+			"title":"TITRE SESSION 1",
+        	"description" : "Description de la session"
+      },{
+			"time" : "Jeudi 5 juin, 15h30 - 15h45",
+  			"type" : "break"
+      },{
+			"time" : "Jeudi 5 juin, 15h45 - 17h00",
+  			"type" : "session", 
+			"title":"TITRE DE LA SESSION 2",
+        	"description" : "Description de la session"
+      }
+
+	]
+	
+]
