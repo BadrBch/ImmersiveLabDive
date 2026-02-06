@@ -2,7 +2,7 @@
 
 Website for the De Vinci Immersive Lab showcasing XR research, projects, and events.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Run the Website Locally
 
@@ -25,7 +25,7 @@ pip install openpyxl
 
 ---
 
-## 📝 Editing Content
+## Editing Content
 
 All website content is managed through an Excel file. **Do not edit PHP files directly.**
 
@@ -59,12 +59,12 @@ Refresh your browser to see the updated content.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-├── DIVE25_Database.xlsx    # ✏️ Edit this file to change content
-├── sync_all_content.py     # 🔄 Run this to sync Excel → PHP
-├── data/content.php        # 🚫 Auto-generated, don't edit
+├── DIVE25_Database.xlsx    # Edit this file to change content
+├── sync_all_content.py     # Run this to sync Excel to PHP
+├── data/content.php        # Auto-generated, don't edit
 ├── index.php               # Homepage
 ├── research.php            # Research page
 ├── projects.php            # Projects page
@@ -76,7 +76,7 @@ Refresh your browser to see the updated content.
 
 ---
 
-## 🔗 Links
+## Links
 
 - **Live Site**: [Coming Soon]
 - **De Vinci Immersive Lab**: [YouTube Channel](https://www.youtube.com/@DeVinciImmersiveLab)
